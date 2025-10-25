@@ -1,5 +1,10 @@
-module github.com/jainiea/jainiea.github.com
+module github.com/Lednerb/bilberry-hugo-theme/v3
 
-go 1.23.2
+go 1.22.6
 
-require github.com/nanxiaobei/hugo-paper v0.0.0-20250419060945-8c75cdd9ce53 // indirect
+toolchain go1.23.2
+
+require (
+	github.com/Lednerb/bilberry-hugo-theme v1.0.1 // indirect
+	github.com/Lednerb/bilberry-hugo-theme/v4 v4.13.0 // indirect
+)
