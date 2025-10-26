@@ -1,0 +1,33 @@
+DOC
+https://github.com/Lednerb/bilberry-hugo-theme?tab=readme-ov-file#bilberry-hugo-theme-v4
+
+-------------------
+Default Post Types
+Bilberry theme comes with a set of predefined post types, namely article, audio, code, gallery, link, page , quote, status, and video, where the article type is the default.
+
+To create a new content, use the hugo new command. Content can be created in two ways: a single page or a page bundle.
+
+Single Page
+To create new content as a single page, you can use the following command:
+
+hugo new <content-type>/my-single-page-content.md
+Page Bundle
+Or, new page bundle content can be created as follows:
+
+hugo new <content-type>/my-page-bundle-content/index.md
+For example, you can create a new article as a single page and a new gallery as a page bundle using the following commands respectively:
+
+hugo new article/my-single-page-article.md
+hugo new gallery/my-page-bundle-gallery/index.md
+The page post type is the only one that can be used in the top navigation bar. Pages can be ordered using the weight front matter variable, which should be set to a non-zero value. A page with a lower weight will be displayed first.
+
+The page content can be a static page, such as an About page, or a link to another page, internal or external.
+
+The link post type always links to an external site and can be used with or without a background image.
+
+Top Navigation Bar
+If you want to permanently display the top navigation bar with the search text field and page items, set the permanentTopNav parameter to true in the hugo.toml file.
+
+If you want to display the top navigation bar when scrolling down the page, set the stickyNav parameter to true. But this will only work when the permanentTopNav is also set to true.
+
+Please note that the top navigation bar is minimized by default on mobile devices.

@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-26T03:56:19+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/video/i-know-what-you-did-last-summer/</loc>
+    <lastmod>2025-10-26T03:56:19+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/english-with-movies/</loc>
+    <lastmod>2025-10-26T03:56:19+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2021-12-15T10:45:44+02:00</lastmod>
+    <lastmod>2025-10-26T03:56:19+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/video/</loc>
+    <lastmod>2025-10-26T03:56:19+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/status/</loc>
     <lastmod>2021-12-15T10:45:44+02:00</lastmod>
@@ -14,7 +26,22 @@
     <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2021-11-01T18:01:26+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/video/</loc>
+    <loc>http://localhost:1313/tags/kilez-more/</loc>
+    <lastmod>2021-11-01T16:23:40+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/video/kilez-more-leben-und-tod-des-imperialismus/</loc>
+    <lastmod>2021-11-01T16:23:40+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/music/</loc>
+    <lastmod>2021-11-01T16:23:40+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/politics/</loc>
+    <lastmod>2021-11-01T16:23:40+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2021-11-01T16:23:40+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/video/</loc>
     <lastmod>2021-11-01T16:23:40+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/audio/</loc>
@@ -36,10 +63,6 @@
   </url><url>
     <loc>http://localhost:1313/author/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
     <loc>http://localhost:1313/series/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
