@@ -15,26 +15,5 @@
       <guid>http://localhost:1313/categories/english-with-movies/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Music</title>
-      <link>http://localhost:1313/categories/music/</link>
-      <pubDate>Mon, 01 Nov 2021 16:23:40 +0100</pubDate>
-      <guid>http://localhost:1313/categories/music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>http://localhost:1313/categories/politics/</link>
-      <pubDate>Mon, 01 Nov 2021 16:23:40 +0100</pubDate>
-      <guid>http://localhost:1313/categories/politics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Video</title>
-      <link>http://localhost:1313/categories/video/</link>
-      <pubDate>Mon, 01 Nov 2021 16:23:40 +0100</pubDate>
-      <guid>http://localhost:1313/categories/video/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

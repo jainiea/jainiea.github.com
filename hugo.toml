@@ -152,6 +152,7 @@ disqusShortname = ""
     socialMediaLinks = [
       { link = "https://x.com/JainieAI", icon = "fab fa-x-twitter", rel = "me" },
       { link = "https://www.youtube.com/@EnglishWatchLearn", icon = "fab fa-youtube" },
+      { link = "https://www.instagram.com/jainie_ai", icon = "fab fa-instagram" },
     ]
 
     # show an archive link in the footer
