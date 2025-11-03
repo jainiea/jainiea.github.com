@@ -12,7 +12,7 @@ youtube: "XEgBUUwT5LU"         # https://www.youtube.com/watch?v=M7IjJiZUutk -> 
 ---
 Hi there! In this lesson, we break down hilarious scenes from the 2025 reboot of I Know What You Did Last Summer. You'll learn casual dating talk, emotional idioms, and modern self-help buzzwords to chat like a pro. Perfect for intermediate learners who want fluent, confident English without boring drills!
 
-## Free Download: Your Vocab Worksheet!
+## Free Download: Your Vocab Worksheet
 
 Loved the slang from I Know What You Did Last Summer? Grab this fun PDF with all 25+ words, meanings, and space for your own sentences + drawings. Practice and sound like a native!
 
