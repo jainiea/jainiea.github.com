@@ -33,7 +33,7 @@ disqusShortname = ""
 
   # Description and meta data for the search engines
   author = "Val Manchinski"
-  description = "Jainie A. - creator, educator, AI video director. Discover fresh context"
+  description = "Jainie A. - Creator, English teacher, AI video director"
   keywords = ""
 
   # How many articles should be displayed at once?
@@ -84,7 +84,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "creator, educator, AI video director"
+    subtitle = "Creator, English teacher, AI video director"
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = "moreimpress102@gmail.com"
