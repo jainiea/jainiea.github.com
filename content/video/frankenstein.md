@@ -1,5 +1,5 @@
 ---
-title: "Learn Elegant & Dramatic English | Advanced Conversation Practice | Frankenstein / part 1"
+title: "Learn English with FRANKENSTEIN - Part 1: Elegant Advanced English"
 date: 2025-11-21T00:09:12+02:00
 draft: false
 
