@@ -11,6 +11,10 @@ author: ""
 youtube: "aarOYSyHFgQ"         # https://www.youtube.com/watch?v=M7IjJiZUutk -> "M7IjJiZUutk"
 ---
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ewal" data-color="#40DCA5" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
+---
+
 Learn 14 useful English phrases from the movie "The Smashing Machine"! This lesson teaches you real conversational English that native speakers use every day.
 
 ## Key Words and Phrases

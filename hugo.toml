@@ -167,7 +167,7 @@ disqusShortname = ""
     copyrightYearOverride = "2025"
     copyrightUrl = "https://x.com/MoreImpress"
     creditsText = "Jainie A."
-    creditsUrl = "https://jainiea.github.io/"
+    creditsUrl = "https://buymeacoffee.com/ewal"
 
 
 # customize your available languages for your multi-lingual site
@@ -181,7 +181,7 @@ disqusShortname = ""
   [markup.goldmark]
     [markup.goldmark.renderer]
       # change to 'true' if you need to render raw HTML within your markdown content
-      unsafe = false
+      unsafe = true
 
   [markup.tableOfContents]
     endLevel = 5

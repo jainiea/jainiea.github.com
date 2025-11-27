@@ -10,6 +10,11 @@ author: ""
 # Set your video id for
 youtube: "XEgBUUwT5LU"         # https://www.youtube.com/watch?v=M7IjJiZUutk -> "M7IjJiZUutk"
 ---
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ewal" data-color="#40DCA5" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
+---
+
 Hi there! In this lesson, we break down hilarious scenes from the 2025 reboot of I Know What You Did Last Summer. You'll learn casual dating talk, emotional idioms, and modern self-help buzzwords to chat like a pro. Perfect for intermediate learners who want fluent, confident English without boring drills!
 
 ## Free Download: Your Vocab Worksheet

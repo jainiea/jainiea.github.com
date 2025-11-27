@@ -11,6 +11,10 @@ author: ""
 youtube: "20xGdXjqS3Y" 
 ---
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ewal" data-color="#40DCA5" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
+---
+
 Want to sound sophisticated in English? Learn from Frankenstein's most elegant conversations!  
 In Part 1, discover how native speakers use advanced vocabulary like "harvest attention" and "mitigate his voice" to express complex emotions. We'll break down every phrase slowly so you can understand not just the words—but the feelings and history beneath them.  
 Perfect for advanced English learners ready to master:  

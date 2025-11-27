@@ -11,6 +11,10 @@ author: ""
 youtube: "y1uC1GjIdKs"         # https://www.youtube.com/watch?v=M7IjJiZUutk -> "M7IjJiZUutk"
 ---
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ewal" data-color="#40DCA5" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
+---
+
 Hi there! Ever wonder how to speak English when you're stressed, excited, or in a rush? 🤯 This lesson is for you!
 
 We’re using amazing, fast-paced scenes from the movie **'A House of Dynamite'** to teach you **Crisis Communication**—the clear, simple, and direct English that native speakers use when every second counts. This is about being effective, not polite!
