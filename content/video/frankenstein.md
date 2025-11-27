@@ -1,5 +1,5 @@
 ---
-title: "Learn English with FRANKENSTEIN - Part 2: How To Argue Elegantly"
+title: "Learn English with FRANKENSTEIN - Part 1: Elegant Advanced English"
 date: 2025-11-21T00:09:12+02:00
 draft: false
 
