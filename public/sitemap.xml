@@ -3,24 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/advanced-english/</loc>
-    <lastmod>2025-11-21T00:09:12+02:00</lastmod>
+    <lastmod>2025-11-27T22:00:21+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-11-21T00:09:12+02:00</lastmod>
+    <lastmod>2025-11-27T22:00:21+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/english-with-movies/</loc>
-    <lastmod>2025-11-21T00:09:12+02:00</lastmod>
+    <lastmod>2025-11-27T22:00:21+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-21T00:09:12+02:00</lastmod>
+    <lastmod>2025-11-27T22:00:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/video/frankenstein/</loc>
-    <lastmod>2025-11-21T00:09:12+02:00</lastmod>
+    <loc>http://localhost:1313/video/frankenstain-2/</loc>
+    <lastmod>2025-11-27T22:00:21+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-11-21T00:09:12+02:00</lastmod>
+    <lastmod>2025-11-27T22:00:21+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/video/</loc>
+    <lastmod>2025-11-27T22:00:21+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/video/frankenstein/</loc>
     <lastmod>2025-11-21T00:09:12+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/video/the-smashing-machine/</loc>
